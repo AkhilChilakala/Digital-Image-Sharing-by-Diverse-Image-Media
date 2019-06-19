@@ -2,6 +2,11 @@
 
 App can be found at  https://akhilchilakalast.shinyapps.io/Crypto/
 <br>  
+
+![Final](final.jpg)<br>
+ <br><br>
+
+<br><br>
 ![Secret](secret.jpg)<br>
 **Secret**  <br><br>
 ![Share 1](share1.jpg)<br>
