@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540725149835.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3414469606",
+    "id" : "81958AD8",
+    "lastKnownWriteTime" : 1541220851,
+    "last_content_update" : -672407728,
+    "path" : "~/Crypto/nvss/code.R",
+    "project_path" : "code.R",
+    "properties" : {
+        "cursorPosition" : "88,0",
+        "scrollLine" : "66",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
